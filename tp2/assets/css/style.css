@@ -22,3 +22,7 @@ div{
     margin-left: 25%;
     text-align: center;
 }
+label{
+    text-align: center;
+    font-weight: bold;
+}
